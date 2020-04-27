@@ -1,1 +1,2 @@
-# IsaacGame
+# IsaacGame 
+Техническое задание
